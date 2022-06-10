@@ -1,3 +1,7 @@
+# 使用
+- https://blog.bihe0832.com/gitstat.html
+- https://stackoverflow.com/questions/60298514/how-to-reinstall-python2-from-homebrew
+
 # About
 gitstats is a statistics generator for git repositories.  It is mostly intended
 for developers, as a way to check some development statistics for a project.
